@@ -77,6 +77,7 @@ const SignInForm = () => {
             Sign In With Google
           </Button>
         </ButtonsContainer>
+        <h3>Don't have an account?, <a href='auth1'>SignUp </a>now!</h3>
       </form>
     </SignInContainer>
   );
